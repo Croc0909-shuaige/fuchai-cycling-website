@@ -1,0 +1,3 @@
+Hyper link:https://croc0909-shuaige.github.io/fuchai-cycling-website/
+
+Styling & Customizations: The website features a clean, nature-inspired design with soft green and white tones that reflect the cycling theme. I customized the layout with a modern sans-serif font, rounded corners, soft shadows, and centered sections to create a balanced and readable design. The header and footer share a consistent deep green color, and links and headings use lighter green accents to maintain harmony. The images are responsive with smooth edges, and the navigation bar and lists are neatly styled for clarity. Overall, the styling emphasizes simplicity, freshness, and a calm, outdoor aesthetic.
